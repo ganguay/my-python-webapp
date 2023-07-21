@@ -1,0 +1,30 @@
+# Ignore Python-related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyc/
+*.pyo/
+*.pyd/
+*.pyz/
+*.pyw/
+*.egg-info/
+*.egg/
+*.exe
+
+# Ignore environment-related files
+venv/
+.env
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore other files and directories (customize as needed)
+node_modules/
+dist/
+build/
+*.log
+
